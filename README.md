@@ -8,3 +8,5 @@
 #### Machine Learning
 ##### Random Forest, Decision Tree, Grid search, ROC-AUC, etc.
 #### Also used some Deep learning techniqiues like neaural networks.
+#### OTHER SKILLS,
+#### Tableau and MySQL Projects are also here
