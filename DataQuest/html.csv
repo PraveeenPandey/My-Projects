@@ -1,0 +1,224 @@
+title,short description,description,Skills,content_main_description,Amount
+Preparing Data with Excel,Learn how to prepare data with Excel by organizing data into a spreadsheet using worksheets and tables. Clean data by removing duplicates and irrelevant data. Consolidate the data to prepare for analysis.,This course is part of the “,"Import data into an Excel spreadsheet from more than one data source|Organize data into a spreadsheet using worksheets and tables|Clean, manipulate, and modify the data|Consolidate the data for analysis","<?xml version = ""1.0""?>
+<main module>
+   <module1>
+       <heading>Importing Data into Excel Spreadsheets</heading>
+       <subheading>
+           <item1>Define delimiters and use them to import data</item1>
+           <item2>Import Excel files, text files, and CSV files</item2>
+           <item3>Use copy & paste and drag & drop to load files</item3>
+       </subheading>
+   </module1>
+   <module2>
+       <heading>Organizing Data</heading>
+       <subheading>
+           <item1>Organize data with cells and ranges</item1>
+           <item2>Organize data into tables, worksheets, and workbooks</item2>
+           <item3>Apply Excel functions and formulas for organizing data</item3>
+       </subheading>
+   </module2>
+   <module3>
+       <heading>Cleaning Data - Part I</heading>
+       <subheading>
+           <item1>Find and remove duplicate data</item1>
+           <item2>Find and remove extra spaces</item2>
+           <item3>Separate data without delimiters</item3>
+           <item4>Correct inaccurate or irrelevant data</item4>
+           <item5>Update missing or incomplete data</item5>
+       </subheading>
+   </module3>
+   <module4>
+       <heading>Cleaning Data Part II</heading>
+       <subheading>
+           <item1>Standardize the case for text</item1>
+           <item2>Standardize formats for dates</item2>
+           <item3>Standardize formats for numbers</item3>
+           <item4>Work with outliers</item4>
+           <item5>Verify clean data with visualizations</item5>
+       </subheading>
+   </module4>
+   <module5>
+       <heading>Consolidating Data</heading>
+       <subheading>
+           <item1>Manipulate headers</item1>
+           <item2>Work with the Consolidate tool</item2>
+           <item3>Merge data using copy and paste</item3>
+           <item4>Use VLOOKUP</item4>
+           <item5>Use INDEX\/MATCH</item5>
+       </subheading>
+   </module5>
+   <module6>
+       <heading>Guided Project: Preparing Data with Excel</heading>
+       <subheading>
+           <item1>Import data into a spreadsheet from more than one data source</item1>
+           <item2>Organize data into a spreadsheet using worksheets and tables</item2>
+           <item3>Clean data by removing duplicates and irrelevant data</item3>
+           <item4>Work with missing data and inconsistent data types</item4>
+           <item5>Consolidate the data for analysis</item5>
+       </subheading>
+   </module6>
+",Enroll for Free
+Get Started with Microsoft Data Analytics,"Learn how to load, clean, and transform Data in Power BI.","In this course, you’ll learn the fundamentals of Microsoft Power BI. You’ll learn how to import, load, clean, and transform data to start your data analysis process. You’ll also learn how to build reports and dashboards using Microsoft Power BI.","Navigate Power BI and use its building blocks|Import data from common sources into Power BI|Rename objects, pivot data, and select valuable data for your analysis|Simplify a complicated model and change data types|Combine data and find anomalies","<?xml version = ""1.0""?>
+<main module>
+   <module1>
+       <heading>Get Started Building with Power BI</heading>
+       <subheading>
+           <item1>Make Power BI services and applications work together</item1>
+           <item2>Employ Power BI to make your business more efficient</item2>
+           <item3>Create compelling visuals and reports</item3>
+       </subheading>
+   </module1>
+   <module2>
+       <heading>Get Data in Power BI</heading>
+       <subheading>
+           <item1>Identify and connect to a data source</item1>
+           <item2>Obtain data from a variety of data sources</item2>
+           <item3>Select a storage mode</item3>
+       </subheading>
+   </module2>
+   <module3>
+       <heading>Load, Clean, and Transform Data in Power BI - I</heading>
+       <subheading>
+           <item1>Resolve inconsistencies, unexpected or null values, and data quality issues</item1>
+           <item2>Apply data shape transformations to table structures</item2>
+           <item3>Apply user-friendly naming conventions to columns</item3>
+       </subheading>
+   </module3>
+   <module4>
+       <heading>Load, Clean, and Transform Data in Power BI - II</heading>
+       <subheading>
+           <item1>Apply user-friendly value replacements and naming conventions to columns and queries</item1>
+           <item2>Profile data, evaluate, and transform column data types</item2>
+           <item3>Apply data shape transformations to table structures</item3>
+       </subheading>
+   </module4>
+   <module5>
+       <heading>Load, Clean, and Transform Data in Power BI - III</heading>
+       <subheading>
+           <item1>Profile data, evaluate, and transform column data types</item1>
+           <item2>Apply data shape transformations to table structures</item2>
+       </subheading>
+   </module5>
+",Enroll for Free
+Introduction to SQL and Databases,Learn the basics of SQL.,This interactive SQL course for beginners will teach you how to code and perform fundamental data science tasks using SQL — and it will help you begin your journey to become a successful data professional. ,Define the structure of SQL|Create basic queries to extract data from tables in a database|Define databases|Identify different versions of SQL|Write good SQL code,"<?xml version = ""1.0""?>
+<main module>
+   <module1>
+       <heading>Introduction to SQL</heading>
+       <subheading>
+           <item1>Define SQL programs and queries</item1>
+           <item2>Employ the `SELECT` clause</item2>
+           <item3>Perform arithmetic in SQL</item3>
+           <item4>Pronounce SQL</item4>
+       </subheading>
+   </module1>
+   <module2>
+       <heading>Introduction to Databases</heading>
+       <subheading>
+           <item1>Define databases</item1>
+           <item2>Define metadata</item2>
+           <item3>Employ SQL statements and clauses</item3>
+           <item4>Employ the `FROM` clause</item4>
+           <item5>Extract data from tables</item5>
+           <item6>Select specific columns</item6>
+       </subheading>
+   </module2>
+   <module3>
+       <heading>Exploring Tables</heading>
+       <subheading>
+           <item1>Employ the `LIMIT` clause</item1>
+           <item2>Identify the order of execution of clauses</item2>
+           <item3>Identify different SQL dialects</item3>
+       </subheading>
+   </module3>
+   <module4>
+       <heading>Coding with Style</heading>
+       <subheading>
+           <item1>Define database management systems</item1>
+           <item2>Employ comments</item2>
+           <item3>Define reserved words</item3>
+           <item4>Apply style guidelines</item4>
+       </subheading>
+   </module4>
+",Enroll for Free
+Introduction to Data Analysis in R,"Learn the basics of R, a popular programming language for data science.",This interactive R course for beginners teaches fundamental  data analysis skills and helps you begin your journey to become a successful data professional. ,Define R programming syntax|Define variable use and naming rules|Perform calculations using arithmetic operators,"<?xml version = ""1.0""?>
+<main module>
+   <module1>
+       <heading>Introduction to Programming in R</heading>
+       <subheading>
+           <item1>Implement R programming syntax basics</item1>
+           <item2>Identify data types</item2>
+           <item3>Perform calculations using common arithmetic operators</item3>
+       </subheading>
+   </module1>
+   <module2>
+       <heading>Arithmetic Expressions and Variables in R</heading>
+       <subheading>
+           <item1>Perform calculations using arithmetics operators</item1>
+           <item2>Save values using variables</item2>
+           <item3>Update variables</item3>
+           <item4>Process numerical data</item4>
+       </subheading>
+   </module2>
+   <module3>
+       <heading>Logical Expressions in R</heading>
+       <subheading>
+           <item1>Perform calculations using relational operators</item1>
+           <item2>Perform calculations using logical operators</item2>
+           <item3>Employ logical expression</item3>
+       </subheading>
+   </module3>
+   <module4>
+       <heading>Data Manipulation with R: Basics</heading>
+       <subheading>
+           <item1>Identify why tidyverse packages are essential for data analysis</item1>
+           <item2>Import a dataset in R</item2>
+           <item3>Explore the dataset</item3>
+           <item4>Visualize the data</item4>
+       </subheading>
+   </module4>
+   <module5>
+       <heading>Project: Install RStudio</heading>
+       <subheading>
+           <item1>Install RStudio</item1>
+           <item2>Practice programming</item2>
+           <item3>Improve your data analysis workflow using RStudio</item3>
+       </subheading>
+   </module5>
+",Enroll for Free
+Introduction to Python,Learn the fundamentals of Python programming for data analysis and data science.,,Write computer programs using Python|Save values using variables|Process numerical data and text data|Create lists using Python,"<?xml version = ""1.0""?>
+<main module>
+   <module1>
+       <heading>Python Programming</heading>
+       <subheading>
+           <item1>Write computer programs in Python</item1>
+           <item2>Print values</item2>
+           <item3>Perform arithmetical operations</item3>
+           <item4>Employ code comments </item4>
+       </subheading>
+   </module1>
+   <module2>
+       <heading>Programming Python Variables</heading>
+       <subheading>
+           <item1>Save values using variables</item1>
+           <item2>Update variables</item2>
+           <item3>Employ syntax shortcuts to update variables</item3>
+       </subheading>
+   </module2>
+   <module3>
+       <heading>Python Data Types: Integers, Floats, Strings</heading>
+       <subheading>
+           <item1>Process numerical data</item1>
+           <item2>Process text data</item2>
+           <item3>Convert data types</item3>
+       </subheading>
+   </module3>
+   <module4>
+       <heading>Python Lists</heading>
+       <subheading>
+           <item1>Employ lists in Python</item1>
+           <item2>Index and slice lists</item2>
+           <item3>Retrieve values from lists</item3>
+           <item4>Employ lists of lists in Python</item4>
+       </subheading>
+   </module4>
+",Enroll for Free
