@@ -7,13 +7,16 @@ Make sure you have Python installed on your system. If not, you can download and
 
 ###Installation
 1. Clone this repository to your local machine using the following command:
-git clone this repo
+   git clone this repo
 
 2. Change to the project directory:
-cd log-digestion
+   cd log-digestion
 
-3. Install the required dependencies (pandas library):
-pip install pandas
+3. Download the data from this link:
+   https://drive.google.com/drive/folders/1DzmYjCawYct6kfstCyUzU_kxIHnahGWD?usp=sharing
+
+4. Install the required dependencies (pandas library):
+   pip install pandas
 
 ###Usage
 1. Place the log files (in the format specified below) inside the project directory.
